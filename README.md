@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer / Cyber Security soon-to-be graduate student. <br>Learning to populate my hand-on experience with Python.
+Software Engineer / Cyber Security graduate student. <br>Learning to populate my hand-on experience with Python.
 
 
 ## 🌐 Socials:
